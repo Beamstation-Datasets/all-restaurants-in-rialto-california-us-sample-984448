@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "All verified restaurant listings in Rialto, California with a population of over 104k. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Rialto, California, US",
+  "export_job_id": "638e30fd-767f-4075-9bf3-90c7bc42342d",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 984448,
+  "location_name": "Rialto",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-rialto-california-us-sample-984448",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/984448/beamstation_984448_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.64,
+  "sample_records": 24,
+  "sample_sha256": "30baae7b0fe9b595f937e17e0cdf99940a6f65379b2215c107e66a8f633bec4f",
+  "sample_size_bytes": 103504,
+  "total_records": 249,
+  "updated_at": "2026-04-09T11:12:38.579868+00:00"
+}
