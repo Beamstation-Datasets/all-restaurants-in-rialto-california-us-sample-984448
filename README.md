@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 249 records |
 | Free sample size | 24 records (9.64%) |
-| Last export | 2026-04-09T11:12:38.579868+00:00 |
+| Last export | 2026-04-16T11:03:53.886452+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-rialto-california-us-sample-984448/releases/download/sample-latest/beamstation_984448_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
