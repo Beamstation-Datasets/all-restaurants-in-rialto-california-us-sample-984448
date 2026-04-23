@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "All verified restaurant listings in Rialto, California with a population of over 104k. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
   "config_name": "All Restaurants in Rialto, California, US",
-  "export_job_id": "f3dd12f0-3f35-4492-b783-ded1b63f1686",
+  "export_job_id": "9e00a8e7-8c03-4040-b33c-3830c2fdb93d",
   "github_org": "Beamstation-Datasets",
   "id_short": 984448,
   "location_name": "Rialto",
   "location_type": "city",
   "repo_name": "all-restaurants-in-rialto-california-us-sample-984448",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/984448/beamstation_984448_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 9.64,
+  "sample_pct": 9.72,
   "sample_records": 24,
-  "sample_sha256": "10654e8552cd1fecfc0d4cdf0b6fb8e8b5f892b1430822ca6156bbfff18ea1ca",
-  "sample_size_bytes": 111738,
-  "total_records": 249,
-  "updated_at": "2026-04-16T11:03:53.886452+00:00"
+  "sample_sha256": "0236c6f47db1bfcc07a84a5a3898c1350a6555b4e880dc5688ef33b10e7f52f7",
+  "sample_size_bytes": 108250,
+  "total_records": 247,
+  "updated_at": "2026-04-23T10:42:56.353976+00:00"
 }
