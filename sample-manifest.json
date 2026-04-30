@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9e00a8e7-8c03-4040-b33c-3830c2fdb93d",
+  "export_job_id": "836a36d4-9a0d-48b5-a81b-7b847ec47c9d",
   "id_short": 984448,
-  "published_at": "2026-04-23T19:16:21Z",
+  "published_at": "2026-04-30T19:22:09Z",
   "repo_name": "all-restaurants-in-rialto-california-us-sample-984448",
   "sample_asset_name": "beamstation_984448_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/984448/beamstation_984448_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 24,
-  "sample_sha256": "0236c6f47db1bfcc07a84a5a3898c1350a6555b4e880dc5688ef33b10e7f52f7",
-  "sample_size_bytes": 108250,
-  "total_records": 247
+  "sample_records": 13,
+  "sample_sha256": "5057dc0d55bfa1ddc8484bb88eb92a905e4ab035e2ff442a3e9aba6018a023fb",
+  "sample_size_bytes": 59220,
+  "total_records": 132
 }
